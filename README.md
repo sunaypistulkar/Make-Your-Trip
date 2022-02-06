@@ -2,7 +2,7 @@ Make Your Trip...
 
 ## Demo
 Link: https://yourtrippss.herokuapp.com
-![20220206_154152](https://user-images.githubusercontent.com/98392987/152679643-026a151b-8399-4278-a294-a976359cac9d.jpg)
+![20220206_154152](https://user-images.githubusercontent.com/98392987/152691171-43984394-59e8-4b8e-9ee1-b58a76bf397e.jpg)
 
 ## Overview
 This application is multiclass classification model in machine learning. It takes inputs from user (like departure, flight-budget, hotel-rating, accomodation-budget and COVID risk) and tries to suggest destinations based on their preferences.
@@ -20,6 +20,6 @@ A) # Training a Machine Learning Model using random forest classification.
 B) # Building & hosting the application on Heroku!
 1. Used streamlit to build an interface.
 2. Used git version control to make it visible on all the platforms
-3. Pushed the files with git on Heroku master.
+3. Used git to push files at Heroku master.
 
 I have created application of trip and vacation guide for people who are working wanted to explore at the same time. I have created multi-class classification model to suggest people where they should visit. In this application I have taken their inputs into consideration (independent variables), according to their preference they would get the suggestion by the model.
