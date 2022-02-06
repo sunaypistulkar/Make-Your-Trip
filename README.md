@@ -24,4 +24,13 @@ B) Building & hosting the application on Heroku!
 2. Used git version control to make it visible on all the platforms
 3. Used git to push files at Heroku master.
 
-I have created application of trip and vacation guide for people who are working wanted to explore at the same time. I have created multi-class classification model to suggest people where they should visit. In this application I have taken their inputs into consideration (independent variables), according to their preference they would get the suggestion by the model.
+## Installation
+The code for the application is written in Python 3.8. If your system doesn't have Python installed, you can use following link to install! To install required packages and libraries use the following command.
+Installation: https://www.python.org/downloads/
+Libraries: pip install -r requirements.txt
+
+## Technology Used
+Python, Scikit-Learn, Pandas, Numpy, Streamlit, Heroku
+
+## Team
+Sunay Pistulkar
