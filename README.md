@@ -13,11 +13,13 @@ Service-sector's working environment has changed drastically, employees are work
 
 ## Technical Aspect
 Project consists of two parts
-A) # Training a Machine Learning Model using random forest classification.
+
+A) Training a Machine Learning Model using random forest classification.
 1. To train the mdoel with highest accuracy, I have used hyperparameter tuning with GridSearchCV to get optimize parameters. 
 2. Eventually I comemnt it down as it was slowing down the runtime.
 3. While splitting the data into train and test, used 'stratify' parameter to increase the accuracy.
-B) # Building & hosting the application on Heroku!
+
+B) Building & hosting the application on Heroku!
 1. Used streamlit to build an interface.
 2. Used git version control to make it visible on all the platforms
 3. Used git to push files at Heroku master.
