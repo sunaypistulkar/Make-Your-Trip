@@ -4,6 +4,22 @@ Make Your Trip...
 Link: https://yourtrippss.herokuapp.com
 ![20220206_154152](https://user-images.githubusercontent.com/98392987/152679643-026a151b-8399-4278-a294-a976359cac9d.jpg)
 
+## Overview
+This application is multiclass classification model in machine learning. It takes inputs from user (like departure, flight-budget, hotel-rating, accomodation-budget and COVID risk) and tries to suggest destinations based on their preferences.
 
+## Motivation
+Service-sector's working environment has changed drastically, employees are working from their homes for last 2 years. Everyone wants some change in their routine, thats why I came up with this application, which would suggest places according to persons need so they can work and enjoy the change simultaneously, the suggested places has the greate internet connectivity so their work commitments won't suffer.
+
+
+## Technical Aspect
+Project consists of two parts
+A) # Training a Machine Learning Model using random forest classification.
+1. To train the mdoel with highest accuracy, I have used hyperparameter tuning with GridSearchCV to get optimize parameters. 
+2. Eventually I comemnt it down as it was slowing down the runtime.
+3. While splitting the data into train and test, used 'stratify' parameter to increase the accuracy.
+B) # Building & hosting the application on Heroku!
+1. Used streamlit to build an interface.
+2. Used git version control to make it visible on all the platforms
+3. Pushed the files with git on Heroku master.
 
 I have created application of trip and vacation guide for people who are working wanted to explore at the same time. I have created multi-class classification model to suggest people where they should visit. In this application I have taken their inputs into consideration (independent variables), according to their preference they would get the suggestion by the model.
