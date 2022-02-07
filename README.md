@@ -30,7 +30,7 @@ Installation: https://www.python.org/downloads/
 Libraries: pip install -r requirements.txt
 
 ## Technology Used
-Python(https://python.org/), Scikit-Learn(https://scikit-learn.org/stable/), Pandas(https://pandas.pydata.org/), Numpy(https://numpy.org/), Streamlit(https://streamlit.io/), Heroku(https://dashboard.heroku.com/)
+[Python](https://python.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Streamlit](https://streamlit.io/), [Heroku](https://dashboard.heroku.com/)
 
 ## Team
 Sunay Pistulkar
