@@ -1,5 +1,14 @@
 # Make Your Trip...
 
+## ==Table of content==
+[Demo]
+[Overview]
+[Motivation]
+[Technical Aspect]
+[Installation]
+[Technology Used]
+[Team]
+
 ## Demo
 Link: https://yourtrippss.herokuapp.com
 ![20220206_154152](https://user-images.githubusercontent.com/98392987/152691171-43984394-59e8-4b8e-9ee1-b58a76bf397e.jpg)
@@ -33,5 +42,4 @@ Libraries: pip install -r requirements.txt
 [Python](https://python.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Streamlit](https://streamlit.io/), [Heroku](https://dashboard.heroku.com/)
 
 ## Team
-Sunay Pistulkar
-https://github.com/sunaypistulkar
+[Sunay Pistulkar](https://github.com/sunaypistulkar)
