@@ -4,9 +4,9 @@
 * [Demo](#Demo)
 * [Overview](#Overview)
 * [Motivation](#Motivation)
-* [Technical Aspect](#TechnicalAspect)
+* [Technical Aspect](#Technical-Aspect)
 * [Installation](#Installation)
-* [Technology Used](#TechnologyUsed)
+* [Technology Used](#Technology-Used)
 * [Team](#Team)
 
 ## Demo
