@@ -34,9 +34,9 @@ B) Building & hosting the application on Heroku!
 3. Used git to push files at Heroku master.
 
 ## Installation
-The code for the application is written in Python 3.8. If your system doesn't have Python installed, you can use following link to install! To install required packages and libraries use the following command.
-Installation: https://www.python.org/downloads/
-Libraries: pip install -r requirements.txt
+The code for the application is written in Python 3.8. If your system doesn't have Python installed, you can click [here!](https://www.python.org/downloads/) To install required packages and libraries use the following command.
+
+**Libraries:** pip install -r requirements.txt
 
 ## Technology Used
 [Python](https://python.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Streamlit](https://streamlit.io/), [Heroku](https://dashboard.heroku.com/)
