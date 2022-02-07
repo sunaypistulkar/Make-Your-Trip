@@ -17,7 +17,7 @@ Link: https://yourtrippss.herokuapp.com
 This application is multiclass classification model in machine learning. It takes inputs from user (like departure, flight-budget, hotel-rating, accomodation-budget and COVID risk) and tries to suggest destinations based on their preferences.
 
 ## Motivation
-Service-sector's working environment has changed drastically, employees are working from their homes for last 2 years. Everyone wants some change in their routine, thats why I came up with this application, which would suggest places according to persons need so they can work and enjoy the change simultaneously, the suggested places has the greate internet connectivity so their work commitments won't suffer.
+Service-sector's working environment has changed drastically, employees are working from their homes for last 2 years. Everyone wants some change in their routine, thats why I came up with this application, which would suggest places according to persons need so they can work and enjoy the change simultaneously, the suggested places has the great internet connectivity so their work commitments won't suffer.
 
 
 ## Technical Aspect
