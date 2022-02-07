@@ -1,10 +1,13 @@
 # Make Your Trip...
 
-## ==Table of content==
+## Table of content
 * [Demo](#Demo)
 * [Overview](#Overview)
-
-
+* [Motivation](#Motivation)
+* [Technical Aspect](#Technical Aspect)
+* [Installation](#Installation)
+* [Technology Used](#Technology Used)
+* [Team](#Team)
 
 ## Demo
 Link: https://yourtrippss.herokuapp.com
